@@ -1,0 +1,25 @@
+GESTOR DE TORNEJOS · PÀDEL INDOOR LES CABANYES
+Versió 1.1 · 22/11/2026
+
+INSTAL·LACIÓ GRATUÏTA
+1. Puja TOTS els fitxers d'aquesta carpeta a l'arrel d'un repositori públic de GitHub.
+2. A GitHub, Settings > Pages > Deploy from a branch > main / (root).
+3. Obre l'adreça https://USUARI.github.io/NOM-REPOSITORI/ des de Safari a l'iPad.
+4. Compartir > Afegir a la pantalla d'inici.
+
+FUNCIONS
+- Tornejos, categories, parelles i grups editables.
+- Generació de partits de tots contra tots, classificació per victòries, diferència de jocs i jocs a favor.
+- Format de jocs i tie-break configurables per grup, ronda i partit.
+- Quadre automàtic de fins a 64 classificades, amb descansos si cal.
+- Edició manual dels encreuaments inicials, resultats i horaris.
+- Còpia JSON d'exportació/importació.
+
+IMPORTANT
+- Les dades es guarden al navegador de l'iPad (localStorage). No se sincronitzen automàticament amb Google Drive.
+- Exporta una còpia JSON sovint a Fitxers o Google Drive, sobretot després de cada jornada.
+- Si esborres les dades del navegador, pots perdre el contingut sense còpia.
+- Els desempats de classificació es resolen per victòries, diferència de jocs, jocs a favor i ordre d'inscripció. No hi ha desempats especials per enfrontament directe.
+- La final al millor de tres sets registra el nombre de sets guanyats, no el detall dels jocs de cada set.
+- Cal revisar i provar el torneig complet abans d'utilitzar-lo en competició oficial.
+- El logotip oficial es distribueix amb el paquet, sense redibuixar.
